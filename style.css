@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 /* class selector */
 .divheader {
     margin:20px 10px 0 10px;
-    background-color: black;
+    background-color: gray;
     color: rgb(255, 255, 255);
 }
 
@@ -21,6 +21,14 @@ h1 {
 
 .divcontact {
     margin-left: 10px;
+}
+
+.divfooter {
+    background-color: gray;
+    margin:20px 10px 0 10px;
+    color: black;
+    margin-top: 200px;
+    text-align: center;
 }
 
 .img-motivation {
